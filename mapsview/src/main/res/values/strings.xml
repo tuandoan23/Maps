@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapsView</string>
+    <string name="error_location_provider">Please enable GPS and Network!</string>
+</resources>
